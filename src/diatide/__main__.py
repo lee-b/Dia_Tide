@@ -119,7 +119,7 @@ class Tidepool:
                 "value": glucose,
                 "clockDriftOffset": 0,
                 "conversionOffset": 0,
-                "deviceId": self.CBGdeviceId,
+                "deviceId": self.SMBGdeviceId,
                 "deviceTime": deviceTime,
                 "time": UTCtimestamp.isoformat(),
                 "timezoneOffset": tzoffset,
