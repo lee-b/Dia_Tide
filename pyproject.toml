@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "diatide"
-version = "0.3.0"
+version = "0.3.1"
 description = "Upload Diasend exports to Tidepool"
 authors = ["j666gak <j666gak@github.com>"]
 readme = "README.md"
